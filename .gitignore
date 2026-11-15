@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vercel
+.vercel
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local SQLite database (development only — production uses Neon PostgreSQL)
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated caches / artifacts
+cache/
+chroma_db/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db

@@ -1,0 +1,291 @@
+{
+  "description": "Manifest of the official NASA publications indexed in the JAMT knowledge base. Every entry is a publicly distributed (DISTRIBUTION=PUBLIC) NASA technical report with its original NTRS identifier and full-text link. No entry is a developer-written or generated text.",
+  "documents": [
+    {
+      "key": "bvad",
+      "ntrs_id": "20210024855",
+      "title": "Life Support Baseline Values and Assumptions Document",
+      "document_id": "NASA/TP-2015-218570/REV2",
+      "sti_type": "Technical Publication (TP)",
+      "publication_date": "2022-02-01",
+      "distribution": "PUBLIC",
+      "category": "life_support",
+      "topics": [
+        "life_support",
+        "water",
+        "food",
+        "oxygen",
+        "astronaut_health",
+        "habitat",
+        "mission_engineering",
+        "mission_operations"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA Technical Publication (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20210024855/downloads/BVAD_2.15.22-final.pdf.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20210024855/downloads/BVAD_2.15.22-final.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20210024855",
+      "footer_regex": "^Life Support Baseline Values and Assumptions Document, NASA/TP-2015-218570, Rev2 February 2022\\s*\\n\\s*([0-9ivxlIVXL]{1,6})[^\\n]*$"
+    },
+    {
+      "key": "add2023",
+      "ntrs_id": "20230002706",
+      "title": "Exploration Systems Development Mission Directorate (ESDMD) Moon-to-Mars Architecture Definition Document (ESDMD-001)",
+      "document_id": "NASA/TP-20230002706",
+      "sti_type": "Technical Publication (TP)",
+      "publication_date": "2023-04-01",
+      "distribution": "PUBLIC",
+      "category": "mission_operations",
+      "topics": [
+        "mission_operations",
+        "mission_engineering",
+        "moon",
+        "mars",
+        "habitat"
+      ],
+      "planetary_body": "Moon and Mars",
+      "license": "Publicly released NASA Technical Publication (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20230002706/downloads/M2MADD_ESDMD-001(TP-20230002706).pdf.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20230002706/downloads/M2MADD_ESDMD-001(TP-20230002706).pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20230002706"
+    },
+    {
+      "key": "deep_habitat",
+      "ntrs_id": "20220000245",
+      "title": "Artemis Deep Space Habitation: Enabling a Sustained Human Presence on the Moon and Beyond",
+      "document_id": null,
+      "sti_type": "Conference Paper",
+      "publication_date": "",
+      "distribution": "PUBLIC",
+      "category": "habitat",
+      "topics": [
+        "habitat",
+        "moon",
+        "mars",
+        "mission_engineering"
+      ],
+      "planetary_body": "Moon and Mars",
+      "license": "Publicly released NASA conference paper (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20220000245/downloads/Artemis%20Deep%20Space%20Habitation%20Enabling%20a%20Sustained%20Human%20Presence%20on%20the%20Moon%20and%20Beyond%20(3).pdf.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20220000245/downloads/Artemis%20Deep%20Space%20Habitation%20Enabling%20a%20Sustained%20Human%20Presence%20on%20the%20Moon%20and%20Beyond%20(3).pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20220000245"
+    },
+    {
+      "key": "lunar_dust",
+      "ntrs_id": "20230003126",
+      "title": "Overview of NASA Gateway Lunar Dust Mitigation and Contamination Modeling and Analysis",
+      "document_id": null,
+      "sti_type": "Conference Paper",
+      "publication_date": "",
+      "distribution": "PUBLIC",
+      "category": "moon",
+      "topics": [
+        "moon",
+        "habitat",
+        "mission_engineering"
+      ],
+      "planetary_body": "Moon",
+      "license": "Publicly released NASA conference paper (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20230003126/downloads/CCMPP%202023%20Gateway%20Dust%20Abstract%20-%20RL%203.8.23%20.pdf.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20230003126/downloads/CCMPP%202023%20Gateway%20Dust%20Abstract%20-%20RL%203.8.23%20.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20230003126"
+    },
+    {
+      "key": "food_suit",
+      "ntrs_id": "20220019344",
+      "title": "Recommendations for Developing Space Suit Integrated Food Systems and Delivering Nutrition Before, During, and After EVA",
+      "document_id": "NASA/TP-20220019344",
+      "sti_type": "Technical Publication (TP)",
+      "publication_date": "2022-12-31",
+      "distribution": "PUBLIC",
+      "category": "food",
+      "topics": [
+        "food",
+        "astronaut_health",
+        "habitat"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA Technical Publication (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20220019344/downloads/Recommendations_for_In-Suit_Nutrition_2022-12-31_STRIVES.pdf.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20220019344/downloads/Recommendations_for_In-Suit_Nutrition_2022-12-31_STRIVES.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20220019344"
+    },
+    {
+      "key": "food_safety",
+      "ntrs_id": "20210023206",
+      "title": "Microbial Food Safety in Space Production Systems",
+      "document_id": null,
+      "sti_type": "White Paper",
+      "publication_date": "2021-10-31",
+      "distribution": "PUBLIC",
+      "category": "food",
+      "topics": [
+        "food",
+        "astronaut_health"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA white paper (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20210023206/downloads/Lee_MicrobialFoodSafety_WhitePaper_211021.pdf.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20210023206/downloads/Lee_MicrobialFoodSafety_WhitePaper_211021.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20210023206"
+    },
+    {
+      "key": "radiation_gcr",
+      "ntrs_id": "20080029284",
+      "title": "Cancer Risk from Exposure to Galactic Cosmic Rays: Implications for Human Space Exploration",
+      "document_id": null,
+      "sti_type": "Preprint (Draft being sent to journal)",
+      "publication_date": "2006-01-01",
+      "distribution": "PUBLIC",
+      "category": "radiation",
+      "topics": [
+        "radiation",
+        "astronaut_health",
+        "mars"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA preprint (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20080029284/downloads/20080029284.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20080029284/downloads/20080029284.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20080029284"
+    },
+    {
+      "key": "exercise",
+      "ntrs_id": "20250000273",
+      "title": "Astronaut Physiological Deconditioning and Exercise Prescription Countermeasures in Spaceflight",
+      "document_id": "NASA/SP-20250000273",
+      "sti_type": "Special Publication (SP)",
+      "publication_date": "2025-01-17",
+      "distribution": "PUBLIC",
+      "category": "astronaut_health",
+      "topics": [
+        "astronaut_health",
+        "exercise"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA Special Publication (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20250000273/downloads/SP%2020250000273%20SUBMISSION.docx.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20250000273/downloads/SP%2020250000273%20SUBMISSION.docx",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20250000273"
+    },
+    {
+      "key": "behavioral",
+      "ntrs_id": "20250001454",
+      "title": "Risk of Adverse Cognitive or Behavioral Changes and Psychiatric Disorders Leading to In-Mission Catastrophic Events (Evidence Report)",
+      "document_id": null,
+      "sti_type": "Other - Evidence Report",
+      "publication_date": "2025-04-10",
+      "distribution": "PUBLIC",
+      "category": "astronaut_health",
+      "topics": [
+        "astronaut_health",
+        "mission_operations",
+        "long_duration"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA Human Research Program evidence report (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20250001454/downloads/BMed%20Evidence%20Report%20final%202-10-25.docx.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20250001454/downloads/BMed%20Evidence%20Report%20final%202-10-25.docx",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20250001454"
+    },
+    {
+      "key": "mars_ref",
+      "ntrs_id": "20100028285",
+      "title": "Human Exploration of Mars Design Reference Architecture 5.0",
+      "document_id": "NASA/SP-2009-566",
+      "sti_type": "Preprint (Draft being sent to journal)",
+      "publication_date": "2010-10-01",
+      "distribution": "PUBLIC",
+      "category": "mars",
+      "topics": [
+        "mars",
+        "mission_engineering",
+        "mission_operations",
+        "habitat"
+      ],
+      "planetary_body": "Mars",
+      "license": "Publicly released NASA preprint (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20100028285/downloads/20100028285.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20100028285/downloads/20100028285.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20100028285"
+    },
+    {
+      "key": "mars_add2",
+      "ntrs_id": "20160003093",
+      "title": "Human Exploration of Mars Design Reference Architecture 5.0, Addendum #2: Reference Mission Summary and Performance Scaling",
+      "document_id": "NASA/SP-2009-566-ADD2",
+      "sti_type": "Special Publication (SP)",
+      "publication_date": "2014-03-01",
+      "distribution": "PUBLIC",
+      "category": "mars",
+      "topics": [
+        "mars",
+        "mission_engineering",
+        "mission_operations"
+      ],
+      "planetary_body": "Mars",
+      "license": "Publicly released NASA Special Publication (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20160003093/downloads/20160003093.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20160003093/downloads/20160003093.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20160003093"
+    },
+    {
+      "key": "mars_edl",
+      "ntrs_id": "20160011571",
+      "title": "Human Mars Entry, Descent, and Landing Architecture Study Overview",
+      "document_id": null,
+      "sti_type": "Conference Paper",
+      "publication_date": "2016-09-13",
+      "distribution": "PUBLIC",
+      "category": "mars",
+      "topics": [
+        "mars",
+        "mission_engineering"
+      ],
+      "planetary_body": "Mars",
+      "license": "Publicly released NASA conference paper (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20160011571/downloads/20160011571.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20160011571/downloads/20160011571.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20160011571"
+    },
+    {
+      "key": "water_hmc",
+      "ntrs_id": "20140011480",
+      "title": "Analysis of Water Recovery Rate from the Heat Melt Compactor",
+      "document_id": "NASA/TM-2013-216573",
+      "sti_type": "Technical Memorandum (TM)",
+      "publication_date": "2013-09-01",
+      "distribution": "PUBLIC",
+      "category": "water",
+      "topics": [
+        "water",
+        "mission_engineering"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA Technical Memorandum (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20140011480/downloads/20140011480.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20140011480/downloads/20140011480.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20140011480"
+    },
+    {
+      "key": "eva_contingency",
+      "ntrs_id": "20160003091",
+      "title": "Experiences with Extra-Vehicular Activities in Response to Critical ISS Contingencies",
+      "document_id": null,
+      "sti_type": "Conference Paper",
+      "publication_date": "2016-05-16",
+      "distribution": "PUBLIC",
+      "category": "emergency",
+      "topics": [
+        "emergency",
+        "mission_operations",
+        "astronaut_health"
+      ],
+      "planetary_body": null,
+      "license": "Publicly released NASA conference paper (PUBLIC)",
+      "fulltext_url": "https://ntrs.nasa.gov/api/citations/20160003091/downloads/20160003091.txt",
+      "pdf_url": "https://ntrs.nasa.gov/api/citations/20160003091/downloads/20160003091.pdf",
+      "ntrs_url": "https://ntrs.nasa.gov/citations/20160003091"
+    }
+  ]
+}
